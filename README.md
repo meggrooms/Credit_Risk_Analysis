@@ -14,14 +14,14 @@ Summary: Summarize the results of the machine learning models, and include a rec
   
 ### Overview
 <BR>
-info goes here
+The purpose of this analysis is well defined (4 pt)
 <br>
 <BR><BR>
 
   
 ### Results (see above)
 <BR>
-Info goes here
+There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models
 <br>
 <BR><BR>
   
@@ -29,7 +29,9 @@ Info goes here
   
 ### Summary (see above)
 <BR>
-Info goes here
+There is a summary of the results (2 pt)
+
+There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
 <br>
 <BR><BR>  
   
