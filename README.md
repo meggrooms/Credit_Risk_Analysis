@@ -36,15 +36,16 @@ The respective balanced accuracy, precision, and recall scores for each model ar
 <BR><BR><br>
 <img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/resample_Native_Random_Oversample%20(1).png?raw=true">
 <BR>
-  Balanced Accuracy: 0.6612700484668286
-Precision: The precision is low for High-risk loans and is high for Low-risk loans.
-Recall: High/Low risk = .66/.67
-  <br>
+• Balanced Accuracy: 0.66<BR>
+  <br><BR>
   
 
 **SMOTE Oversampling**
  <BR><BR><BR>
 <img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/Resample_02_SMOTE_oversample.png">
+<BR>
+• Balanced Accuracy: 0.64
+  
 <BR><BR>
   
   
@@ -52,7 +53,10 @@ Recall: High/Low risk = .66/.67
 **ClusterCentroids**
  <BR><BR><BR>
 <img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/ClusterCentroids.png">
-<BR><BR>
+<BR>
+• Balanced Accuracy: 0.53
+  
+<br><BR>
   
   
   
