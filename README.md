@@ -65,6 +65,12 @@ The respective balanced accuracy, precision, and recall scores for each model ar
     
   
   
+**AdaBoost Classifier**
+<BR><BR><BR>
+<img src = "https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/image_03_easy%20ensemble_AdaBoost%20(1).png">
+<BR><BR>  
+  
+  
     
 ----  
 ### Summary
