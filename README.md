@@ -20,7 +20,7 @@ The credit industry can be very risky, classifying potential customers as a good
 • BalancedRandomForestClassifier<BR>
 • EasyEnsembleClassifier<BR>
 
-<BR><BR>
+<BR>
   
 ----  
 ### Results (see above)
