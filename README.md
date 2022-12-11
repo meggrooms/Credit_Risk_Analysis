@@ -47,7 +47,7 @@ The respective balanced accuracy, precision, and recall scores for each model ar
 
 **ClusterCentroids**
  <BR><BR><BR>
-<img src="[https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/Resample_02_SMOTE_oversample.png](https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/ClusterCentroids.png)">
+<img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/ClusterCentroids.png">
 <BR><BR>
   
   
