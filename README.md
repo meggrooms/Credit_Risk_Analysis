@@ -4,7 +4,7 @@ Predicting credit risk using Machine Learning models
 
 ### Overview
 
-The credit industry can be very risky, classifying potential customers as a good or poor risk is vital to the financial health of the credit provider. In this module I used various libraries and algorithms to build and evaluate models to predict each person's credit risk. These include:
+The credit industry can be very risky, classifying potential customers as a high or low risk is vital to the financial health of the credit provider. In this module I used various libraries and algorithms to build and evaluate models to predict a person's credit risk. These include:
 <br>
 • imbalanced-learn<BR>
 • scikit-learn<BR>
@@ -54,7 +54,7 @@ The respective balanced accuracy, precision, and recall scores for each model ar
   
   
   
-**SMOTEEN**
+**SMOTEENN**
 <BR><BR><BR>
 <img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/Resample_04_Combo_sampling.png">
 <BR>
