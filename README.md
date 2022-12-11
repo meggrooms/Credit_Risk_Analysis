@@ -35,7 +35,11 @@ The respective balanced accuracy, precision, and recall scores for each model ar
 **Naive Random Oversampling**
 <BR><BR><br>
 <img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/resample_Native_Random_Oversample%20(1).png?raw=true">
-<BR><BR>   
+<BR>
+  Balanced Accuracy: 0.6612700484668286
+Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+Recall: High/Low risk = .66/.67
+  <br>
   
 
 **SMOTE Oversampling**
