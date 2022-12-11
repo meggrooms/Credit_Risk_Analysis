@@ -1,9 +1,6 @@
 # Credit Risk Analysis
 Predicting credit risk using Machine Learning models
 ----
-<BR><BR>
-  
-Overview of the analysis: Explain the purpose of this analysis.
 
 Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
@@ -21,8 +18,17 @@ The purpose of this analysis is well defined (4 pt)
   
 ### Results (see above)
 <BR>
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models
+The credit industry can be very risky, classifying potential customers as a good or poor risk is vital to the financial health of the credit provider. In this module I used various libraries and algorithms to build and evaluate models to predict each person's credit risk. These include:
 <br>
+• imbalanced-learn<BR>
+• scikit-learn<BR>
+• RandomOverSampler<BR>
+• SMOTE algorithms<BR>
+• ClusterCentroids algorithm<BR>
+• SMOTEENN algorithm<BR>
+• BalancedRandomForestClassifier<BR>
+• EasyEnsembleClassifier<BR>
+
 <BR><BR>
   
   
