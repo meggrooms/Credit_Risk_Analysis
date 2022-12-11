@@ -55,7 +55,6 @@ The respective balanced accuracy, precision, and recall scores for each model ar
 <img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/ClusterCentroids.png">
 <BR>
 • Balanced Accuracy: 0.53
-  
 <br><BR>
   
   
@@ -63,28 +62,43 @@ The respective balanced accuracy, precision, and recall scores for each model ar
 **SMOTEEN**
 <BR><BR><BR>
 <img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/Resample_04_Combo_sampling.png">
+<BR>
+• Balanced Accuracy: 0.53
 <BR><BR>
   
   
 **RandomForest Classifier Priority**
 <BR><BR><BR>
 <img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/image_02_RandomForest.png">
+<BR>
+• Balanced Accuracy: 0.79
 <BR><BR>
     
   
   
-**AdaBoost Classifier**
+**Easy Ensemble AdaBoost Classifier**
 <BR><BR><BR>
 <img src = "https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/image_03_easy%20ensemble_AdaBoost%20(1).png">
+<BR>
+• Balanced Accuracy: 0.93
 <BR><BR>  
   
   
     
 ----  
 ### Summary
-<BR>
-There is a summary of the results (2 pt)
-
+Balanced accuracy spands from 0-1, with 1 being the perfect prediction. Based on the models I ran, **the Easy Ensemble AdaBoost Classifier was most accurate** with a balanced accuracy of 0.93. The other models have a balanced accuracy of under 0.80, making them far less accurate as they are not as close to 1 as the EEABC.
+  
+  
+When working with balanced accuracy, the highest compared accuracy between 0 and 1 and is closest to 1 is the best machine learning model. For the credit card data set, the Easy Ensemble AdaBoost Classifier is the best model to choose with its .93 balanced accuracy. The other models were below .80 balanced accuracy. The precision for all models were similar and within an appropriate range. The recall score also needs to fall within 0 and 1, with numbers closer to 1 being the better model. The Easy Ensemble AdaBoost Classifier had the highest recall score, making it the final best machine learning model to choose for further credit card analysis  
+  
+  
+  
+  
+  
+  
+  
+  
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
 <br>  
   
