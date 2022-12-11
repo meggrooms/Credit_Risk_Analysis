@@ -29,7 +29,15 @@ The respective balanced accuracy, precision, and recall scores for each model ar
 <strong>Splitting Data Into Training & Testing Samples</strong>
 <BR><BR>
 <img src ="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/image_01_train_test.png">
-  
+  <BR><BR>
+    
+ <strong> Naive Random Oversampling</strong>
+<BR><BR>
+<img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/resample_Native_Random_Oversample%20(1).png?raw=true">
+    
+    
+    
+    
 ----  
 ### Summary
 <BR>
