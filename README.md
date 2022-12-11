@@ -22,7 +22,7 @@ The credit industry can be very risky, classifying potential customers as a good
 
 <BR><BR>
   
-  
+----  
 ### Results (see above)
 <BR>  
   
