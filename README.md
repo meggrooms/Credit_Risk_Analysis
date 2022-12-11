@@ -51,10 +51,19 @@ The respective balanced accuracy, precision, and recall scores for each model ar
 <BR><BR>
   
   
+  
 **SMOTEEN**
 <BR><BR><BR>
 <img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/Resample_04_Combo_sampling.png">
 <BR><BR>
+  
+  
+**RandomForest Classifier Priority**
+<BR><BR><BR>
+<img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/image_02_RandomForest.png">
+<BR><BR>
+    
+  
   
     
 ----  
