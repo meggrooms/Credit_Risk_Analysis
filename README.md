@@ -26,6 +26,7 @@ The credit industry can be very risky, classifying potential customers as a good
 ### **Results**
 The respective balanced accuracy, precision, and recall scores for each model are as follows: 
 <br><BR>
+  
 <strong>Splitting Data Into Training & Testing Samples</strong>
 <BR><BR><br>
 <img src ="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/image_01_train_test.png">
@@ -34,8 +35,17 @@ The respective balanced accuracy, precision, and recall scores for each model ar
 **Naive Random Oversampling**
 <BR><BR><br>
 <img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/resample_Native_Random_Oversample%20(1).png?raw=true">
-    
-    
+<BR><BR>   
+
+**SMOTE Oversampling**
+ <BR><BR><BR>
+<img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/Resample_02_SMOTE_oversample.png">
+<BR><BR>
+  
+  
+  
+  
+  
     
 ----  
 ### Summary
