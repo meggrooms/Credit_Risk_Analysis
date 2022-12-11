@@ -24,8 +24,8 @@ The credit industry can be very risky, classifying potential customers as a good
   
 ----  
 ### Results (see above)
-<BR>  
-  
+The respective balanced accuracy, precision, and recall scores for each model are as follows: 
+<br>
   
 ### Summary (see above)
 <BR>
@@ -33,7 +33,9 @@ There is a summary of the results (2 pt)
 
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
 <br>
-<BR><BR>  
+  <strong>Splitting Data Into Training & Testing Samples</strong>
+  <BR>
+    
   
   
   
