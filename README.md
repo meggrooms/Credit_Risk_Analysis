@@ -1,3 +1,5 @@
+<img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/What-Happens-to-Your-Credit-Cards-After-Your-Death_-1000x480%20(1).jpg" height = 150 width = 1000>
+
 # Credit Risk Analysis
 Predicting credit risk using Machine Learning models
 ----
