@@ -82,7 +82,7 @@ The respective balanced accuracy, precision, and recall scores for each model ar
     
 ----  
 ### Summary
-Balanced accuracy spands from 0-1, with 1 being the perfect prediction. Based on the models I ran, **the Easy Ensemble AdaBoost Classifier was most accurate** with a balanced accuracy of 0.93. The other models have a balanced accuracy of under 0.80, making them far less accurate as they are not as close to 1 as the EEABC.
+Balanced accuracy spans 0-1, with 1 being the perfect prediction model. Based on the models I ran, **the Easy Ensemble AdaBoost Classifier was most accurate** with a balanced accuracy of 0.93. The other models have a balanced accuracy of under 0.80, making them far less accurate as they are not as close to 1 as the EEABC. As such, I recommend using the EEABC as the primary prediction model.
 
   
   
