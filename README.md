@@ -36,6 +36,7 @@ The respective balanced accuracy, precision, and recall scores for each model ar
 <BR><BR><br>
 <img src="https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/resample_Native_Random_Oversample%20(1).png?raw=true">
 <BR><BR>   
+  
 
 **SMOTE Oversampling**
  <BR><BR><BR>
@@ -43,7 +44,11 @@ The respective balanced accuracy, precision, and recall scores for each model ar
 <BR><BR>
   
   
-  
+
+**ClusterCentroids**
+ <BR><BR><BR>
+<img src="[https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/Resample_02_SMOTE_oversample.png](https://github.com/meggrooms/Credit_Risk_Analysis/blob/main/images/ClusterCentroids.png)">
+<BR><BR>
   
   
     
